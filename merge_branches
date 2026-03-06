@@ -1,0 +1,12 @@
+Updating README.md
+Merge made by the 'ort' strategy.
+ README.md | 2 ++
+ 1 file changed, 2 insertions(+), 0 deletions(-)
+
+* 3832c9e (HEAD -> main, origin/main) Fix typo in README
+* ad95b0a (origin/main, origin/HEAD) Update README.md
+* 7f3d1a2 Create simple-interest.sh
+* 4b2e9c8 Create compound_interest.py
+* 1d5e3f1 Create CODE_OF_CONDUCT.md
+* 9a7b6c4 Create CONTRIBUTING.md
+* 8c2d1e5 Initial commit
